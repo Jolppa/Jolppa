@@ -1,2 +1,4 @@
-- 👋 Hi, I’m @Jolppa and I'm a self-taught programmer, who is taking my first steps into the industry. I'm currently learning JavaScript (and TypeScript) and its runtime environment Node.js.
-    I'm also learning some front-end stuff with React
+- 👋 Hi, I’m @Jolppa and I'm a noob programmer, who is taking my first steps into the industry. Every now and then, I start a full-stack project and if I think it is a good enough idea and I succeed in the execution, then I'll upload it in here!
+
+- Stuff I know how to use:
+Node.js, React, Express.js
